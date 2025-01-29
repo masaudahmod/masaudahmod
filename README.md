@@ -36,6 +36,8 @@
 
 ## 📊 GitHub Stats
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
 [![Masaud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masaudahmod&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/masaudahmod/github-readme-stats#gh-dark-mode-only)
 [![Masaud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masaudahmod&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/masaudahmod/github-readme-stats#gh-light-mode-only)
 
@@ -44,3 +46,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=masaudahmod&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/masaudahmod/github-readme-stats#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=masaudahmod&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/masaudahmod/github-readme-stats#gh-light-mode-only)
+</div>
