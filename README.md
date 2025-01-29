@@ -34,8 +34,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
   <img src="https://github-readme-stats.vercel.app/api?username=masaudahmod&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" height="150" />
