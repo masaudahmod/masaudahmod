@@ -41,3 +41,5 @@
   <img src="https://github-readme-streak-stats-nixlab.vercel.app?user=masaudahmod&hide_border=true&theme=dark#gh-dark-mode-only" height="150"/>
 
 </div>
+
+[![Masaud's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masaudahmod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
