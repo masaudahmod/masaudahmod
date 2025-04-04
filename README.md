@@ -36,7 +36,6 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaudahmod&hide_border=true&theme=dark#gh-dark-mode-only" height="150"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masaudahmod&theme=2077" alt="GitHub Stats" height="150">
   <img src="https://github-readme-streak-stats-nixlab.vercel.app?user=masaudahmod&hide_border=true&theme=dark#gh-dark-mode-only" height="150"/>
 
