@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Next Js.**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/masaud-ahmods-projects](https://vercel.com/masaud-ahmods-projects)
+- 👨‍💻 All of my projects are available at [masaud-ahmods-projects](https://vercel.com/masaud-ahmods-projects)
 
 - 💬 Ask me about **Front-End (React Js) & Redux**
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view](https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view)
+- 📄 Know about my experiences [Masaud Ahmod's Resume](https://drive.google.com/file/d/1o4Jc2e04bp2SOezZoYO_SW2BGQDpnKFK/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
 
