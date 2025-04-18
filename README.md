@@ -6,8 +6,8 @@
 </div>
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=masaudahmod&label=Profile%20views&color=0e75b6&style=flat" alt="masaudahmod" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=masaudahmod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p> -->
 
 - 🌱 I’m currently learning **Next Js.**
 
