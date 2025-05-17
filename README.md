@@ -9,15 +9,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=masaudahmod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p> -->
 
-- 🌱 I’m currently learning **Next Js.**
+- 🌱 I’m currently learning **Express Js.**
 
-- 👨‍💻 All of my projects are available at [masaud-ahmods-projects](https://vercel.com/masaud-ahmods-projects)
+- 👨‍💻 All of my projects are available at [masaud-ahmods-projects](https://masaudahmod.github.io/masaud-portfolio/pages/portfolio.html)
 
-- 💬 Ask me about **Front-End (React Js) & Redux**
+- 💬 Ask me about **Front-End (React Js / Next Js) & Redux**
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
-- 📄 Know about my experiences [Masaud Ahmod's Resume](https://drive.google.com/file/d/1o4Jc2e04bp2SOezZoYO_SW2BGQDpnKFK/view?usp=sharing)
+- 📄 Know about my experiences [Masaud Ahmod's Resume]([https://drive.google.com/file/d/1o4Jc2e04bp2SOezZoYO_SW2BGQDpnKFK/view?usp=sharing](https://drive.google.com/file/d/1RrFfCQ54IcSMffnpvNii1RCL1VVFR1c_/view?usp=sharing))
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
 
