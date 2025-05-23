@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
-- 📄 Know about my experiences [Masaud Ahmod's Resume]([https://drive.google.com/file/d/1o4Jc2e04bp2SOezZoYO_SW2BGQDpnKFK/view?usp=sharing](https://drive.google.com/file/d/1RrFfCQ54IcSMffnpvNii1RCL1VVFR1c_/view?usp=sharing))
+- 📄 Know about my experiences [Masaud Ahmod's Resume](https://drive.google.com/file/d/1RrFfCQ54IcSMffnpvNii1RCL1VVFR1c_/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
 
