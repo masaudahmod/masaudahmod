@@ -42,3 +42,11 @@
 </div>
 
 [![Masaud's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masaudahmod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🐍 Snake On Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
