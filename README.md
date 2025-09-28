@@ -9,11 +9,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=masaudahmod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p> -->
 
-- 🌱 I’m currently learning **Express Js.**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [masaud-ahmods-projects](https://masaudahmod.github.io/masaud-portfolio/pages/portfolio.html)
 
 - 💬 Ask me about **Front-End (React Js / Next Js) & Redux**
+
+- 📫 Hire Now [Upwork Profile](https://www.upwork.com/freelancers/~0160c10348e1d06542?mp_source=share&s=1110580755107926016)
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
