@@ -37,10 +37,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masaudahmod&theme=2077" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats-nixlab.vercel.app?user=masaudahmod&hide_border=true&theme=dark#gh-dark-mode-only" height="150"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=masaudahmod&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="masaudahmod's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaudahmod&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="masaudahmod's GitHub Stats" height="150"/>
 </div>
 
 [![Masaud's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masaudahmod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
