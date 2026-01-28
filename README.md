@@ -9,6 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=masaudahmod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p> -->
 
+# 💫 About Me:
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [masaud-ahmods-projects](https://masaudahmod.github.io/masaud-portfolio/pages/portfolio.html)
@@ -22,6 +23,11 @@
 - 📄 Know about my experiences [Masaud Ahmod's Resume](https://drive.google.com/file/d/17isuPmm6aBsX7omNWSJiqu7fKhyTBiVe/view)
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
+
+
+# 👀 GitHub Visitors
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=masaudahmod.masaudahmod&"  />
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,11 +43,12 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=masaudahmod&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="masaudahmod's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaudahmod&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="masaudahmod's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masaudahmod&show_icons=true&theme=dark" alt="masaudahmod's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaudahmod&show_icons=true&bg_color=00000000" alt="masaudahmod's GitHub Stats" height="150"/>
 </div>
-
-[![Masaud's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masaudahmod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=masaudahmod&theme=merko&hide_border=false" alt="masaudahmod's GitHub Stats" height="150"/>
+</div>
 
 ## 🐍 Snake On Contributions
 <picture>
