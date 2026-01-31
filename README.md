@@ -42,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=masaudahmod&show_icons=true&theme=dark" alt="masaudahmod's GitHub Stats" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=masaudahmod&theme=merko&hide_border=false" alt="masaudahmod's GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaudahmod&show_icons=true&bg_color=00000000" alt="masaudahmod's GitHub Stats" height="150"/>
 </div>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=masaudahmod&theme=merko&hide_border=false" alt="masaudahmod's GitHub Stats" height="150"/>
-</div>
+<!-- <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=masaudahmod&show_icons=true&theme=dark" alt="masaudahmod's GitHub Stats" height="150"/>
+</div> -->
 
 ## 🐍 Snake On Contributions
 <picture>
