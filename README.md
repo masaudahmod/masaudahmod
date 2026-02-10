@@ -23,10 +23,10 @@
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
 
-
+<!---
 # 👀 GitHub Visitors
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=masaudahmod.masaudahmod&"  />
-<br/>
+<br/> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
