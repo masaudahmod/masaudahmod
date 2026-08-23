@@ -1,23 +1,28 @@
-
 <h1 align="center">Hi 👋, I'm Masaud Ahmod</h1>
-<h3 align="center">A passionate Developer!</h3>
-<div align="center">
+<!-- <h3 align="center">A passionate Developer!</h3> -->
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="masaudahmod's GitHub profile" src="dark_mode.svg" />
+</picture>
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=masaudahmod&label=Profile%20views&color=0e75b6&style=flat" alt="masaudahmod" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p> -->
 
 - 🌱 I’m currently learning **Next Js.**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/masaud-ahmods-projects](https://vercel.com/masaud-ahmods-projects)
+<!-- - 👨‍💻 All of my projects are available at [https://vercel.com/masaud-ahmods-projects](https://vercel.com/masaud-ahmods-projects)
 
-- 💬 Ask me about **Front-End (React Js) & Redux**
+- 💬 Ask me about **Front-End (React Js) & Redux** -->
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view](https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view)
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
 
