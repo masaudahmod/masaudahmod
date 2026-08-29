@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Next Js.**
 
-<!-- - 👨‍💻 All of my projects are available at [https://vercel.com/masaud-ahmods-projects](https://vercel.com/masaud-ahmods-projects)
+- 👨‍💻 My Portfolio - [masaudahmod](https://masaudahmod.github.io/portfolio/)
 
-- 💬 Ask me about **Front-End (React Js) & Redux** -->
+<!-- -- 💬 Ask me about **Front-End (React Js) & Redux** -->
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
