@@ -22,7 +22,8 @@
 
 - 📫 How to reach me **masaudahmod@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view)
+- 📄 Know about my experiences [My CV](https://masaudahmod.github.io/portfolio/assets/masaudAhmod-full-stack.pdf) 
+  <!-- [My CV](https://drive.google.com/file/d/1frnHIIijZMYJxqrwaQCVBKqwHkPh57_N/view) -->
 
 - ⚡ Fun fact **I'm Excited to beat with Code's**
 
