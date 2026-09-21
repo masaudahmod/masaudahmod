@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaudahmod" alt="masaudahmod" /></a> </p> -->
 
-- 🌱 I’m currently learning **Next Js.**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 My Portfolio - [masaudahmod](https://masaudahmod.github.io/portfolio/)
 
